@@ -2,5 +2,5 @@
 - **Course:** CCS
 - **Section:** CC400
 - **Goals in Learning Application Development:**
-💀<Learn how to track project versions with Git.💀
-💀<Build clean web application projects.💀
+    💀1. Learn how to track project versions with Git.💀
+    💀2. Build clean web application projects.💀
